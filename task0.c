@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - checks if the user is old enough to access the site
+ * main - checks if the user is old enough to access the site i.e. above 18
  *
  * Return: 0 for success
  */
